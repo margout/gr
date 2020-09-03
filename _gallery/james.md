@@ -8,5 +8,6 @@ license_text: hci pioneers
 categories:
   - biography
 tags:
-  - Hci Pioneer
+  - Pioneer
 ---
+
