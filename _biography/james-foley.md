@@ -1,0 +1,18 @@
+---
+author: margout
+title: "James Foley"
+image_url: /images/foley.jpg
+caption: "O Foley ξεκίνησε στην κοινωνία Phi Beta Kappa και Tau Beta Pi ενώ στο Lehigh. Έλαβε το διδακτορικό του στη μηχανική υπολογιστών, πληροφοριών και ελέγχου από το Πανεπιστήμιο του Μίτσιγκαν το 1969."
+categories:
+  - biography
+tags:
+  - James Foley
+  - Hci Pioneer
+gallery:
+  - image_url: /images/foley.jpg
+    caption: "O Foley ξεκίνησε στην κοινωνία Phi Beta Kappa και Tau Beta Pi ενώ στο Lehigh. Έλαβε το διδακτορικό του στη μηχανική υπολογιστών, πληροφοριών και ελέγχου από το Πανεπιστήμιο του Μίτσιγκαν το 1969."
+---
+
+{% include bio-foley.md %}
+
+{% include slides.html caption="Εικόνες για την βιογραφία τoυ James Foley" %}
